@@ -9,4 +9,3 @@ if array.length == 2
 	array.join(", ")
   end
 end
-end
